@@ -9,9 +9,9 @@ you will need
 
 then follow steps below.
 
-1.put the mechanisms in 'datafolder'
-2.prepare your LBV data and uncertainty in 'datafolder'/input_LBVs.txt and 'datafolder'/input_uncertainties.txt
-3.run the CCC_LBV_MODIFIER.py and the results will show in the folder "log"
+1. put the mechanisms in 'datafolder'
+2. prepare your LBV data and uncertainty in 'datafolder'/input_LBVs.txt and 'datafolder'/input_uncertainties.txt
+3. run the CCC_LBV_MODIFIER.py and the results will show in the folder "log"
 
 
 The results of example are given below:
